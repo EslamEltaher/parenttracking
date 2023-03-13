@@ -1,0 +1,4 @@
+[submodule "submodulerepo"]
+	path = submodulerepo
+	url = https://github.com/EslamEltaher/submodulerepo
+	branch = master
